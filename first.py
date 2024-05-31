@@ -1,2 +1,5 @@
 print("hello")
 print("world")
+print("remove")
+print("x")
+print("new line")
